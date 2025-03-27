@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Bruna Santander
 
-<!--
-**brunasantander/brunasantander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Sobre mim
+Sou uma desenvolvedora apaixonada por tecnologia e inovação. Atualmente, estou focada no desenvolvimento de mobile e backend 🚀
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias & Ferramentas
+- 🔹 **Linguagens:** JavaScript, TypeScript, Python, Swift
+- 🔹 **Frontend:** React, Next.js, React Native
+- 🔹 **Backend:** Node.js, Express, Java, PostgreSQL
+- 🔹 **Outros:** Git, Docker, Firebase, Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em Destaque
+- 🏷️ **[Sistema de Pedidos para Bares](#)** - Gerenciamento otimizado de pedidos para cozinhas.
+- 📊 **[Aplicativos em Geral](#)** - Apps bancários e de calculo de IMC com consulta de historico
+- 📦 **[Sistema de Gerenciamento de Estoque](#)** - Gerenciamento otimizado de estoques em geral
+
+## 📫 Como me encontrar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bruna-santander-a90997220/)  
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bruna_santander@outlook.com)  
+
+---
+💡 Sempre aprendendo e criando novas soluções! Vamos conversar? 😃
